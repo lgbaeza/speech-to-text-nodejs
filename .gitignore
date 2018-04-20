@@ -1,0 +1,5 @@
+*.log
+public/vendor/
+.DS_STORE
+vcap-local.json
+node_modules/

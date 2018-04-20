@@ -1,0 +1,8 @@
+*.log
+*.DS_STORE
+WORKSHOP/
+node_modules/
+public/vendor/
+design/
+README.md
+vcap-local.json
